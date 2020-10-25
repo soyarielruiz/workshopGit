@@ -1,0 +1,21 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 20px;
+  padding: 0;
+  background: #6190e8;
+  background: -webkit-linear-gradient(to left, #a7bfe8, #7ba6f6);
+  background: linear-gradient(to left, #a7bfe8, #7ba7fa);
+  text-align: center;
+}
+h3 {
+  font-size: 30px;
+}
+p {
+  font-size: 25px;
+}
+ul {
+  font-size: 25px;
+}
+li {
+  list-style-type: none;
+}
